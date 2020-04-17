@@ -992,3 +992,4 @@ adservice.google.com.hk
 www.googletagmanager.com
 s0.2mdn.net
 imasdk.googleapis.com
+news.tvb.com
