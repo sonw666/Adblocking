@@ -1010,3 +1010,6 @@ adservice.google.co.za
 adservice.google.cz
 adservice.google.nl
 adservices.google.com
+adservice.google.com.hk
+s0.2mdn.net
+www.googletagmanager.com
