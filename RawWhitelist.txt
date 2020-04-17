@@ -996,3 +996,4 @@ news.tvb.com
 wowza-rr-live-2.edgeware.tvb.com
 hk4-edge22-2.edgeware.tvb.com
 ww1.sinaimg.cn
+securepubads.g.doubleclick.net
